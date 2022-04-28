@@ -1,0 +1,10 @@
+﻿C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Enums\InvoiceItemCategoryType.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Enums\UserType.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Exceptions\InvoiceItemsSumException.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Exceptions\InvoiceUserNullException.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Models\Abstraction\BaseModel.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Models\Abstraction\IBaseModel.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Models\Discount.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Models\Invoice.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Models\InvoiceItem.cs
+C:\Users\Hasan\Desktop\Project Repos\DotNetCore\ShopRU\ShopRu.Common\Models\User.cs
